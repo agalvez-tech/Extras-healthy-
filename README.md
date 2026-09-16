@@ -1,6 +1,6 @@
 # HealthyMeat · Horas extra
 
-App muy sencilla para que Mónica, Vicente (Biot Vicente Alcover) y Marcelo registren
+App muy sencilla para que Mónica, Vicente (Vicente Alcover Biot) y Marcelo registren
 sus horas extra. Nada más: sin vacaciones, sin pausas, sin varias empresas.
 
 ## Qué incluye

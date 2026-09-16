@@ -3,7 +3,7 @@
 
 export const EMPLEADOS = [
   { id: 'monica-costa-grau', nombre: 'Mª Mónica Costa Grau', pin: '5830' },
-  { id: 'biot-vicente-alcover', nombre: 'Biot Vicente Alcover', pin: '9043' },
+  { id: 'biot-vicente-alcover', nombre: 'Vicente Alcover Biot', pin: '9043' },
   { id: 'marcelo-vega-lopez', nombre: 'Marcelo G. Vega López', pin: '5478' },
 ]
 
